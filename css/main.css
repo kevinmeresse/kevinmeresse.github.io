@@ -75,6 +75,10 @@ h3 {
     font-size: 1rem;
 }
 
+.apps {
+    padding: 1.5em 0 0 0;
+}
+
 .social {
     padding: 1.5em 0;
 }
@@ -86,11 +90,7 @@ ul, ol {
     padding: 0;
 }
 
-.social li {
+.social li, .apps li {
     display: inline-block;
     padding: 0 0.6em;
-}
-
-.social a {
-    color: #ffffff;
 }
