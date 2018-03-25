@@ -94,3 +94,8 @@ ul, ol {
     display: inline-block;
     padding: 0 0.6em;
 }
+
+a {
+  text-decoration: none; /* no underline */
+  color: #ffffff;
+}
